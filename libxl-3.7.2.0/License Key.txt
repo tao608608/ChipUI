@@ -1,0 +1,11 @@
+License
+
+Name:Halil Kural
+key:windows-2723210a07c4e90162b26966a8jcdboe
+
+usage:
+
+g_book = xlCreateBook() '创建个EXCEL
+
+xlBookSetKey(g_book, "Halil Kural", "windows-2723210a07c4e90162b26966a8jcdboe")  '解锁注册
+g_book->setKey("Halil Kural", "windows-2723210a07c4e90162b26966a8jcdboe");  //经测试，这个才是解锁
